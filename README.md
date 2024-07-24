@@ -1,4 +1,4 @@
-# Projeto de Estudo: Java +Spring + Apache Kafka
+# Projeto de Estudo: Java + Apache Kafka
 
 Bem-vindo ao repositório do projeto de estudo sobre Java  e Apache Kafka! Este projeto foi desenvolvido com o objetivo de explorar e entender como desenvolver serviços em java para consumir e produzir mensagens de tópicos na solução  de mensageria Kafka.
 O projeto faz parte do curso Kafka: produtores, consumidores e streams da Alura
