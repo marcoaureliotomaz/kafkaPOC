@@ -1,8 +1,9 @@
 # Projeto de Estudo: Java + Apache Kafka
 
 Bem-vindo ao repositório do projeto de estudo sobre Java  e Apache Kafka! Este projeto foi desenvolvido com o objetivo de explorar e entender como desenvolver serviços em java para consumir e produzir mensagens de tópicos na solução  de mensageria Kafka.
-O projeto faz parte do curso Kafka: produtores, consumidores e streams da Alura
-Link do curso: 
+O projeto faz parte do curso **Kafka: produtores, consumidores e streams** da Alura
+
+[Link do Curso]([https://cursos.alura.com.br/course/integracao-continua-pipeline-docker-github-actions](https://cursos.alura.com.br/course/kafka-introducao-a-streams-em-microservicos))
 
 ## Tecnologias Utilizadas
 
@@ -32,12 +33,7 @@ Link do curso:
     docker-compose -f docker-compose.yml up -d
     ```
 
-## Uso
-
-1. **Produzir mensagens**:
-2. **Consumir mensagens**:
 
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com este projeto. Por favor, envie pull requests e relatar problemas no GitHub.
+
